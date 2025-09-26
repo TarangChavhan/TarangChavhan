@@ -13,7 +13,7 @@
 **Currently Exploring:** Artificial Intelligence & Machine Learning (Python, TensorFlow, PyTorch)  
 **Other Skills:** SQL, C++, C, HTML, CSS, MS Office  
 
-![Tech GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
 
@@ -21,28 +21,22 @@
 
 ### 🔹 WhatsApp Chatbot (Python)  
 Automated chatbot built with Python, integrated for WhatsApp messaging.  
-![Chatbot Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM0ZTRyY3Ywb3h6MDRraGdheXhjb2ZxOWQxMzBlZTRjaW1mOXg4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)  
+![Chatbot Demo](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)  
 
 ---
 
 ### 🔹 EarthMark – The Land Broker App 🌍  
 An Android application for land selling & buying with Firebase backend, user management, and image upload.  
-![Mobile Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o0dGVjNWR0bnNhdzdwcWxzNGRrcm04Z2htd2JtM2psdTQzZzRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif)  
+![Mobile Demo](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  
 
 ---
 
 ### 🔹 Chess Timer – *Time To Play* ⏱  
 Available on **Amazon App Store** – Dual interactive chess timer with custom controls and dark UI.  
-![Chess Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRrbXBkY2pwZDI0cXNwdDVoZnBlZGFuYTRydnlqd2l2cGl5YjlpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xezQGU5xCDJuCPe/giphy.gif)  
+![Chess Demo](https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif)  
 
 ---
 
-## 📊 GitHub Stats  
-
-![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-
----
 
 ## 💼 Connect with Me  
 
